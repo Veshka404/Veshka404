@@ -4,13 +4,13 @@
 - 💞️ I’m looking to collaborate on hands-on projects to build a portfolio and get a deeper understanding of Python, Cloud, AI or Blockchain. 
 - 📫 How to reach me : on X under this name "Veshka_404"
   
-- First, let me introduce myself and my Nub-to-Solution Architect starting journey :
-  
-"My journey begins: from tech enthusiast to freelance cloud security (AI/ML) solution Architect"
+- "My journey begins: from tech enthusiast to freelance cloud security (AI/ML) solution Architect"
 
-Hey there!
+Hey there and Welcome! 
 
-Welcome! I’m Veshka, and I couldn’t be more excited to kick off this blog series, where I’ll share my journey as I set out to become a Freelance Cloud Security (AI/ML) Solution Architect. 
+I’m Veshka, and I couldn’t be more excited to kick off this blog series, where I’ll share my journey as I set out to become a Freelance Cloud Security (AI/ML) Solution Architect. 
+
+First, let me get a proper introducing and explain my Nub-to-Solution Architect starting journey. 
 
 I come from a unique background – before diving into tech, I spent several years as a lawyer, even lecturing on law at the college level. Later, I transitioned into procurement law, where I led a team in contract management. These roles gave me a deep understanding of regulations, compliance, and strategy, all of which I now see as powerful assets in the tech world, especially as I shift focus toward cloud security.
 
@@ -32,19 +32,15 @@ Some milestones I’ve outlined  for this journey:
 - Business Skills: Building project management and client interaction skills.
 
 I’ll be tackling hands-on projects throughout to put these skills into practice and build a strong portfolio. By the way, I expect GitHub to be a good mentorship finder to achieve my goals ! 
-
-Starting with Python and AI basics, my first big goals are:
-- Completing a comprehensive Python course ;
-- Building a data analysis project in Python ;
-- Beginning my AWS journey through their free tier
   
 I’ve already completed the following ones : 
 
 - Python 4 Everybody (Coursera) ;
 - Python Essentials 1 & 2 (Cisco Academy);
 - IBM Python for Data Science, AI & Development (Coursera)
+- (...)
   
-In this blog, I’ll be sharing :
+Here, I’ll be sharing :
 Learning updates and milestones ;
 Insights from the courses and certifications I’m taking ;
 Project breakdowns with tips and takeaways ;
@@ -61,8 +57,3 @@ Looking forward to the adventure ahead!
 
 Veshka.
 
-
-<!---
-Veshka404/Veshka404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
