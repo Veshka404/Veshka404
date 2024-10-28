@@ -10,15 +10,15 @@
 
 Hey there!
 
-Welcome! I’m Veshka, and I couldn’t be more excited to kick off this blog series, where I’ll share my journey as I set out to become a Freelance Cloud Security (AI/ML) Solution Architect. My goal? To capture the ups and downs, the challenges, and the wins as I dive into the world of cloud computing, artificial intelligence, and machine learning.
+Welcome! I’m Veshka, and I couldn’t be more excited to kick off this blog series, where I’ll share my journey as I set out to become a Freelance Cloud Security (AI/ML) Solution Architect. 
 
 I come from a unique background – before diving into tech, I spent several years as a lawyer, even lecturing on law at the college level. Later, I transitioned into procurement law, where I led a team in contract management. These roles gave me a deep understanding of regulations, compliance, and strategy, all of which I now see as powerful assets in the tech world, especially as I shift focus toward cloud security.
-For me, this journey into Cloud AI/ML and security combines the thrill of navigating complex systems with the potential to contribute to large-scale, impactful solutions. Specializing in cloud security feels like a natural extension of my background for my Lawyer DNA is problem-solving, and I’m excited to bring both my legal and leadership experience into this next chapter.
-
-The tech world is racing forward, and the fusion of cloud computing with AI and ML is transforming industries in ways we’ve never seen. I’ve always loved the thrill of solving complex problems with innovative tech, so this field feels like the perfect mix of creativity and real-world impact.
-As a Cloud Security (AI/ML) Solution Architect, I’ll be working at the heart of this transformation, building smart, scalable systems that can redefine how businesses operate. The chance to work on varied projects, stay on the cutting edge, and make a real impact keeps me motivated.
 
 So, Why Cloud Security (AI/ML) Solution Architecture?
+
+For me, this journey into Cloud AI/ML and security combines the thrill of navigating complex systems with the potential to contribute to large-scale, impactful solutions. Specializing in cloud security feels like a natural extension of my background for my Lawyer DNA is problem-solving, and I’m excited to bring both my legal and leadership experience into this next chapter.
+
+I’ve always loved the thrill of solving complex problems with innovative tech, so this industry like the perfect mix of creativity and real-world impact. As a Cloud Security (AI/ML) Solution Architect, I’ll be working at the heart of this transformation, building smart, scalable systems that can redefine how businesses operate. The chance to work on varied projects, stay on the cutting edge, and make a real impact keeps me motivated.
 
 Some milestones I’ve outlined  for this journey:
 
